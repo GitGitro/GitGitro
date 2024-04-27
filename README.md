@@ -5,7 +5,7 @@ Drawing and sometimes coding 🖥️
 
 ## Currently maintaining Delta-Icons for Android and Aegis!
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Delta-Icons/android"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/android.svg" width="100"> </a> 
   <a href="https://github.com/Delta-Icons/aegis-icons"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/aegis_logo.svg" width="100"> </a>
   
