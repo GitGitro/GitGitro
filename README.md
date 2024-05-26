@@ -1,7 +1,9 @@
 ## Hi there 👋
 Drawing and sometimes coding 🖥️
 
-![GitGitro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitGitro)
+![GitGitro's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitGitro&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=GitGitro&color=ff837d&style=for-the-badge)
 
 ## Currently maintaining Delta-Icons for Android and Aegis!
 
