@@ -26,12 +26,12 @@ Drawing and sometimes coding 🖥️
 ## Find me here:
 
 <p align="left">
-  <a href="https://t.me/GitGitro"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/telegram.svg" width="100"> 
-  </a> 
-  <a href="https://discord.com/"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/discord.svg" width="100"> 
-  </a>
-  <a href="https://matrix.org/"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/element.svg" width="100"> </a>
-  </a>
-  <a href="mailto:contact@gitro.xyz"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/mail.svg" width="100"> 
-  </a>   
+  <a href="https://t.me/GitGitro"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/telegram.svg" width="100" align="center"> @GitGitro
+  </a> </br>
+  <a href="https://discord.com/"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/discord.svg" width="100" align="center"> gitro_
+  </a> </br>
+  <a href="https://matrix.org/"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/element.svg" width="100" align="center"> </a> @gitrowastaken:matrix.org
+  </a> </br>
+  <a href="mailto:contact@gitro.xyz"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/mail.svg" width="100" align="center"> contact@gitro.xyz
+  </a> </br>
 </p>
