@@ -30,7 +30,7 @@ Drawing and sometimes coding 🖥️
   </a> </br>
   <a href="https://discord.com/"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/discord.svg" width="100" align="center"> gitro_
   </a> </br>
-  <a href="https://matrix.org/"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/element.svg" width="100" align="center"> </a> @gitrowastaken:matrix.org
+  <a href="https://matrix.org/"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/element.svg" width="100" align="center"> @gitrowastaken:matrix.org
   </a> </br>
   <a href="mailto:contact@gitro.xyz"> <img src="https://raw.githubusercontent.com/GitGitro/GitGitro/main/.github/mail.svg" width="100" align="center"> contact@gitro.xyz
   </a> </br>
