@@ -1,8 +1,8 @@
 # Hi there 👋
-🎨 Drawing and sometimes coding 
-🔏 FOSS and privacy enthusiast
-🤖 Mantainer at <a href="https://github.com/Delta-Icons">Delta</a> for the <a href="https://github.com/Delta-Icons/android">android</a> and <a href="https://github.com/Delta-Icons/aegis-icons">Aegis</a> icon packs.
-🖥️ And I also host some privacy respecting projects!
+<p>🎨 Drawing and sometimes coding</p>
+<p>🔏 FOSS and privacy enthusiast</p>
+<p>🤖 Mantainer at <a href="https://github.com/Delta-Icons">Delta</a> for the <a href="https://github.com/Delta-Icons/android">android</a> and <a href="https://github.com/Delta-Icons/aegis-icons">Aegis</a> icon packs.</p>
+<p>🖥️ And I also host some privacy respecting projects!</p>
 
 ## 💾 Projects I host:
 - 📺 <a href="https://flix.gitro.xyz">Sudo-Flix</a> | 🆓 | source code: <a href="https://github.com/sussy-code/smov">here</a>
