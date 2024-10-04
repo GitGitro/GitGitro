@@ -13,6 +13,8 @@
 - 🖼️ <a href="https://rimgo.gitro.xyz">Rimgo</a> | 🆓 | source code: <a href="https://codeberg.org/rimgo/rimgo">here</a>
 - ❓ <a href="https://quetre.gitro.xyz">Quetre</a> | 🆓 | source code: <a href="https://github.com/zyachel/quetre">here</a>
 - 🌐 <a href="https://mozhi.gitro.xyz">Mozhi</a> | 🆓 | source code: <a href="https://codeberg.org/aryak/mozhi">here</a>
+- 📖 <a href="https://wikiless.gitro.xyz">Wikiless</a> | 🆓 | source code: <a href="https://github.com/Metastem/wikiless">here</a>
+- ✍️ <a href="https://priviblur.gitro.xyz">Priviblur</a> | 🆓 | source code: <a href="https://github.com/syeopite/priviblur">here</a>
 - 🤖 <a href="https://chatgpt.gitro.xyz">NextChat</a> | 💵 | source code: <a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web">here</a>
 - 📄 <a href="https://stirling.gitro.xyz">StirlingPDF</a> | 💵 | source code: <a href="https://github.com/Stirling-Tools/Stirling-PDF">here</a>
 - 💰 <a href="https://wallos.gitro.xyz">Wallos</a> | 💵 | source code: <a href="https://github.com/ellite/Wallos">here</a>
