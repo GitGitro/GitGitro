@@ -11,6 +11,7 @@
 - 💻 <a href="https://anonymousoverflow.gitro.xyz">AnonymousOverflow</a> | 🆓 | source code: <a href="https://github.com/httpjamesm/AnonymousOverflow">here</a>
 - 🎉 <a href="https://proxytok.gitro.xyz">ProxyTok</a> | 🆓 | source code: <a href="https://github.com/pablouser1/ProxiTok">here</a>
 - 🖼️ <a href="https://rimgo.gitro.xyz">Rimgo</a> | 🆓 | source code: <a href="https://codeberg.org/rimgo/rimgo">here</a>
+- 🎵 <a href="https://dumb.gitro.xyz">Dumb</a> | 🆓 | source code: <a href="https://github.com/rramiachraf/dumb">here</a>
 - ❓ <a href="https://quetre.gitro.xyz">Quetre</a> | 🆓 | source code: <a href="https://github.com/zyachel/quetre">here</a>
 - 🌐 <a href="https://mozhi.gitro.xyz">Mozhi</a> | 🆓 | source code: <a href="https://codeberg.org/aryak/mozhi">here</a>
 - 📖 <a href="https://wikiless.gitro.xyz">Wikiless</a> | 🆓 | source code: <a href="https://github.com/Metastem/wikiless">here</a>
@@ -21,6 +22,8 @@
 - 🔗 <a href="https://linkding.gitro.xyz">Linkding</a> | 💵 | source code: <a href="https://github.com/sissbruecker/linkding">here</a>
 
 ### 🌟You can find more information and how to access them on my site: <a href="https://gitro.xyz">here</a> 
+
+### ⌚Status page: <a href="https://uptime.gitro.xyz/status/gitro">here</a> 
 
 ### 🚀 Find me here:
 [![Telegram](https://img.shields.io/badge/Telegram-a3bbff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GitGitro) [![Discord](https://img.shields.io/badge/Discord-b0a7ff?style=for-the-badge&logo=telegram&logoColor=white)](https://www.discord.com/user/_gitro) [![matrix](https://img.shields.io/badge/Matrix-ececec?style=for-the-badge&logo=matrix&logoColor=black)](https://matrix.to/#/@gitrowastaken:matrix.org) [![Email](https://img.shields.io/badge/Email-f4857d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gitro.xyz)
