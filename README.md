@@ -4,6 +4,10 @@
 <p>🤖 Mantainer at <a href="https://github.com/Delta-Icons">Delta</a> for the <a href="https://github.com/Delta-Icons/android">android</a> and <a href="https://github.com/Delta-Icons/aegis-icons">Aegis</a> icon packs.</p>
 <p>🖥️ And I also host some privacy respecting projects!</p>
 
+### 🌟You can find more information and how to access them on my site: <a href="https://gitro.xyz">here</a> 
+
+### ⌚Status page: <a href="https://uptime.gitro.xyz/status/gitro">here</a> 
+
 ## 💾 Projects I host:
 - 📺 <a href="https://flix.gitro.xyz">Sudo-Flix</a> | 🆓 | source code: <a href="https://github.com/sussy-code/smov">here</a>
 - 📺 <a href="https://ani.gitro.xyz">Animunet</a> | 🆓 | source code: <a href="https://github.com/avalynndev/animunet">here</a>
@@ -17,13 +21,10 @@
 - 📖 <a href="https://wikiless.gitro.xyz">Wikiless</a> | 🆓 | source code: <a href="https://github.com/Metastem/wikiless">here</a>
 - ✍️ <a href="https://priviblur.gitro.xyz">Priviblur</a> | 🆓 | source code: <a href="https://github.com/syeopite/priviblur">here</a>
 - 🤖 <a href="https://chatgpt.gitro.xyz">NextChat</a> | 💵 | source code: <a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web">here</a>
-- 📄 <a href="https://stirling.gitro.xyz">StirlingPDF</a> | 💵 | source code: <a href="https://github.com/Stirling-Tools/Stirling-PDF">here</a>
+- 📝 <a href="https://gitro.xyz">Notesnook</a> | 💵 | source code: <a href="https://github.com/streetwriters/notesnook-sync-server">here</a>
 - 💰 <a href="https://wallos.gitro.xyz">Wallos</a> | 💵 | source code: <a href="https://github.com/ellite/Wallos">here</a>
 - 🔗 <a href="https://linkding.gitro.xyz">Linkding</a> | 💵 | source code: <a href="https://github.com/sissbruecker/linkding">here</a>
 
-### 🌟You can find more information and how to access them on my site: <a href="https://gitro.xyz">here</a> 
-
-### ⌚Status page: <a href="https://uptime.gitro.xyz/status/gitro">here</a> 
 
 ### 🚀 Find me here:
 [![Telegram](https://img.shields.io/badge/Telegram-a3bbff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GitGitro) [![Discord](https://img.shields.io/badge/Discord-b0a7ff?style=for-the-badge&logo=telegram&logoColor=white)](https://www.discord.com/user/_gitro) [![matrix](https://img.shields.io/badge/Matrix-ececec?style=for-the-badge&logo=matrix&logoColor=black)](https://matrix.to/#/@gitrowastaken:matrix.org) [![Email](https://img.shields.io/badge/Email-f4857d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gitro.xyz)
