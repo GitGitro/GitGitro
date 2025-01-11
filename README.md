@@ -12,21 +12,21 @@
 
 |Project name   |Availability   |Source code   |
 |---|---|---|
-|📺 <a href="https://flix.gitro.xyz">Sudo-Flix</a>                          |🆓   |source code: <a href="https://github.com/sussy-code/smov">here</a>                |
-|📺 <a href="https://ani.gitro.xyz">Animunet</a>                            |🆓   |source code: <a href="https://github.com/avalynndev/animunet">here</a>            |
-|📺 <a href="https://enjoytown.gitro.xyz">EnjoyTown</a>                     |🆓   |source code: <a href="https://github.com/avalynndev/enjoytown">here</a>           |
-|💻 <a href="https://anonymousoverflow.gitro.xyz">AnonymousOverflow</a>     |🆓   |source code: <a href="https://github.com/httpjamesm/AnonymousOverflow">here</a>   |
-|🎉 <a href="https://proxytok.gitro.xyz">ProxyTok</a>                       |🆓   |source code: <a href="https://github.com/pablouser1/ProxiTok">here</a>            |
-|🖼️ <a href="https://rimgo.gitro.xyz">Rimgo</a>                             |🆓   |source code: <a href="https://codeberg.org/rimgo/rimgo">here</a>                  |
-|🎵 <a href="https://dumb.gitro.xyz">Dumb</a>                               |🆓   |source code: <a href="https://github.com/rramiachraf/dumb">here</a>               |
-|❓ <a href="https://quetre.gitro.xyz">Quetre</a>                           |🆓   |source code: <a href="https://github.com/zyachel/quetre">here</a>                 |
-|🌐 <a href="https://mozhi.gitro.xyz">Mozhi</a>                             |🆓   |source code: <a href="https://codeberg.org/aryak/mozhi">here</a>                  |
-|📖 <a href="https://wikiless.gitro.xyz">Wikiless</a>                       |🆓   |source code: <a href="https://github.com/Metastem/wikiless">here</a>              |
-|✍️ <a href="https://priviblur.gitro.xyz">Priviblur</a>                     |🆓   |source code: <a href="https://github.com/syeopite/priviblur">here</a>             |
-|🗃️ <a href="https://vert.gitro.xyz">VERT</a>                               |🆓   |source code: <a href="https://github.com/not-nullptr/VERT">here</a>               |
-|🔨 <a href="https://it-tools.gitro.xyz">IT-Tools</a>                       |🆓   |source code: <a href="https://github.com/CorentinTh/it-tools">here</a>            |
-|🎨 <a href="https://painterest.gitro.xyz">Painterest</a>                   |🆓   |source code: <a href="https://codeberg.org/thirtysix/painterest">here</a>         |
-|🤖 <a href="https://redlib.gitro.xyz">Redlib</a>                           |🆓   |source code: <a href="https://github.com/redlib-org/redlib">here</a>              |
+|📺 <a href="https://flix.gitro.xyz">Sudo-Flix</a>                          |🆓   |<a href="https://github.com/sussy-code/smov">here</a>                |
+|📺 <a href="https://miruro.gitro.xyz">Miruro</a>                           |🆓   |<a href="https://github.com/Miruro-no-kuon/Miruro">here</a>            |
+|📺 <a href="https://enjoytown.gitro.xyz">EnjoyTown</a>                     |🆓   |<a href="https://github.com/avalynndev/enjoytown">here</a>           |
+|💻 <a href="https://anonymousoverflow.gitro.xyz">AnonymousOverflow</a>     |🆓   |<a href="https://github.com/httpjamesm/AnonymousOverflow">here</a>   |
+|🎉 <a href="https://proxytok.gitro.xyz">ProxyTok</a>                       |🆓   |<a href="https://github.com/pablouser1/ProxiTok">here</a>            |
+|🖼️ <a href="https://rimgo.gitro.xyz">Rimgo</a>                             |🆓   |<a href="https://codeberg.org/rimgo/rimgo">here</a>                  |
+|🎵 <a href="https://dumb.gitro.xyz">Dumb</a>                               |🆓   |<a href="https://github.com/rramiachraf/dumb">here</a>               |
+|❓ <a href="https://quetre.gitro.xyz">Quetre</a>                           |🆓   |<a href="https://github.com/zyachel/quetre">here</a>                 |
+|🌐 <a href="https://mozhi.gitro.xyz">Mozhi</a>                             |🆓   |<a href="https://codeberg.org/aryak/mozhi">here</a>                  |
+|📖 <a href="https://wikiless.gitro.xyz">Wikiless</a>                       |🆓   |<a href="https://github.com/Metastem/wikiless">here</a>              |
+|✍️ <a href="https://priviblur.gitro.xyz">Priviblur</a>                     |🆓   |<a href="https://github.com/syeopite/priviblur">here</a>             |
+|🗃️ <a href="https://vert.gitro.xyz">VERT</a>                               |🆓   |<a href="https://github.com/not-nullptr/VERT">here</a>               |
+|🔨 <a href="https://it-tools.gitro.xyz">IT-Tools</a>                       |🆓   |<a href="https://github.com/CorentinTh/it-tools">here</a>            |
+|🎨 <a href="https://painterest.gitro.xyz">Painterest</a>                   |🆓   |<a href="https://codeberg.org/thirtysix/painterest">here</a>         |
+|🤖 <a href="https://redlib.gitro.xyz">Redlib</a>                           |🆓   |<a href="https://github.com/redlib-org/redlib">here</a>              |
 
 
 ### 🚀 Find me here:
