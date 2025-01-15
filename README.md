@@ -24,9 +24,7 @@
 |📖 <a href="https://wikiless.gitro.xyz">Wikiless</a>                       |🆓   |<a href="https://github.com/Metastem/wikiless">here</a>              |
 |✍️ <a href="https://priviblur.gitro.xyz">Priviblur</a>                     |🆓   |<a href="https://github.com/syeopite/priviblur">here</a>             |
 |🗃️ <a href="https://vert.gitro.xyz">VERT</a>                               |🆓   |<a href="https://github.com/not-nullptr/VERT">here</a>               |
-|🔨 <a href="https://it-tools.gitro.xyz">IT-Tools</a>                       |🆓   |<a href="https://github.com/CorentinTh/it-tools">here</a>            |
 |🎨 <a href="https://painterest.gitro.xyz">Painterest</a>                   |🆓   |<a href="https://codeberg.org/thirtysix/painterest">here</a>         |
-|🤖 <a href="https://redlib.gitro.xyz">Redlib</a>                           |🆓   |<a href="https://github.com/redlib-org/redlib">here</a>              |
 
 
 ### 🚀 Find me here:
